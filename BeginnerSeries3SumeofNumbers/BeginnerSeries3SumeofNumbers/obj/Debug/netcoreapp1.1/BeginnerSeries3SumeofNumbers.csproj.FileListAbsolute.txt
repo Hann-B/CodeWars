@@ -1,0 +1,8 @@
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\CodeWars\BeginnerSeries3SumeofNumbers\BeginnerSeries3SumeofNumbers\bin\Debug\netcoreapp1.1\BeginnerSeries3SumeofNumbers.deps.json
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\CodeWars\BeginnerSeries3SumeofNumbers\BeginnerSeries3SumeofNumbers\bin\Debug\netcoreapp1.1\BeginnerSeries3SumeofNumbers.runtimeconfig.json
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\CodeWars\BeginnerSeries3SumeofNumbers\BeginnerSeries3SumeofNumbers\bin\Debug\netcoreapp1.1\BeginnerSeries3SumeofNumbers.runtimeconfig.dev.json
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\CodeWars\BeginnerSeries3SumeofNumbers\BeginnerSeries3SumeofNumbers\bin\Debug\netcoreapp1.1\BeginnerSeries3SumeofNumbers.dll
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\CodeWars\BeginnerSeries3SumeofNumbers\BeginnerSeries3SumeofNumbers\bin\Debug\netcoreapp1.1\BeginnerSeries3SumeofNumbers.pdb
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\CodeWars\BeginnerSeries3SumeofNumbers\BeginnerSeries3SumeofNumbers\obj\Debug\netcoreapp1.1\BeginnerSeries3SumeofNumbers.AssemblyInfo.cs
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\CodeWars\BeginnerSeries3SumeofNumbers\BeginnerSeries3SumeofNumbers\obj\Debug\netcoreapp1.1\BeginnerSeries3SumeofNumbers.dll
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\CodeWars\BeginnerSeries3SumeofNumbers\BeginnerSeries3SumeofNumbers\obj\Debug\netcoreapp1.1\BeginnerSeries3SumeofNumbers.pdb
