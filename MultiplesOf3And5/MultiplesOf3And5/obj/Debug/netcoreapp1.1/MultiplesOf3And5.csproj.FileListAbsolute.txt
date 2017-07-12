@@ -1,0 +1,9 @@
+c:\users\hanna\documents\visual studio 2017\Projects\Codewars\MultiplesOf3And5\MultiplesOf3And5\bin\Debug\netcoreapp1.1\MultiplesOf3And5.deps.json
+c:\users\hanna\documents\visual studio 2017\Projects\Codewars\MultiplesOf3And5\MultiplesOf3And5\bin\Debug\netcoreapp1.1\MultiplesOf3And5.runtimeconfig.json
+c:\users\hanna\documents\visual studio 2017\Projects\Codewars\MultiplesOf3And5\MultiplesOf3And5\bin\Debug\netcoreapp1.1\MultiplesOf3And5.runtimeconfig.dev.json
+c:\users\hanna\documents\visual studio 2017\Projects\Codewars\MultiplesOf3And5\MultiplesOf3And5\bin\Debug\netcoreapp1.1\MultiplesOf3And5.dll
+c:\users\hanna\documents\visual studio 2017\Projects\Codewars\MultiplesOf3And5\MultiplesOf3And5\bin\Debug\netcoreapp1.1\MultiplesOf3And5.pdb
+c:\users\hanna\documents\visual studio 2017\Projects\Codewars\MultiplesOf3And5\MultiplesOf3And5\obj\Debug\netcoreapp1.1\MultiplesOf3And5.csprojResolveAssemblyReference.cache
+c:\users\hanna\documents\visual studio 2017\Projects\Codewars\MultiplesOf3And5\MultiplesOf3And5\obj\Debug\netcoreapp1.1\MultiplesOf3And5.AssemblyInfo.cs
+c:\users\hanna\documents\visual studio 2017\Projects\Codewars\MultiplesOf3And5\MultiplesOf3And5\obj\Debug\netcoreapp1.1\MultiplesOf3And5.dll
+c:\users\hanna\documents\visual studio 2017\Projects\Codewars\MultiplesOf3And5\MultiplesOf3And5\obj\Debug\netcoreapp1.1\MultiplesOf3And5.pdb
