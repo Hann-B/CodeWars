@@ -1,0 +1,9 @@
+c:\users\hanna\documents\visual studio 2017\Projects\Codewars\AreWeAlternate\AreWeAlternate\bin\Debug\netcoreapp1.1\AreWeAlternate.deps.json
+c:\users\hanna\documents\visual studio 2017\Projects\Codewars\AreWeAlternate\AreWeAlternate\bin\Debug\netcoreapp1.1\AreWeAlternate.runtimeconfig.json
+c:\users\hanna\documents\visual studio 2017\Projects\Codewars\AreWeAlternate\AreWeAlternate\bin\Debug\netcoreapp1.1\AreWeAlternate.runtimeconfig.dev.json
+c:\users\hanna\documents\visual studio 2017\Projects\Codewars\AreWeAlternate\AreWeAlternate\bin\Debug\netcoreapp1.1\AreWeAlternate.dll
+c:\users\hanna\documents\visual studio 2017\Projects\Codewars\AreWeAlternate\AreWeAlternate\bin\Debug\netcoreapp1.1\AreWeAlternate.pdb
+c:\users\hanna\documents\visual studio 2017\Projects\Codewars\AreWeAlternate\AreWeAlternate\obj\Debug\netcoreapp1.1\AreWeAlternate.csprojResolveAssemblyReference.cache
+c:\users\hanna\documents\visual studio 2017\Projects\Codewars\AreWeAlternate\AreWeAlternate\obj\Debug\netcoreapp1.1\AreWeAlternate.AssemblyInfo.cs
+c:\users\hanna\documents\visual studio 2017\Projects\Codewars\AreWeAlternate\AreWeAlternate\obj\Debug\netcoreapp1.1\AreWeAlternate.dll
+c:\users\hanna\documents\visual studio 2017\Projects\Codewars\AreWeAlternate\AreWeAlternate\obj\Debug\netcoreapp1.1\AreWeAlternate.pdb
